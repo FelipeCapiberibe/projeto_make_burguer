@@ -70,16 +70,5 @@
     "Saiu Para Entrega",
     "Finaliza"
   ],
-  "burgers": [
-    {
-      "nome": "teste",
-      "carne": "Alcatra",
-      "pao": "Integral",
-      "opcionais": [
-        "Bacon"
-      ],
-      "status": "Preparando",
-      "id": 4
-    }
-  ]
+  "burgers": []
 }
