@@ -1,6 +1,7 @@
 <template>
     <footer id="footer">
-        <p>Make Your Burger &copy; 2021 </p>
+        <p> Make Your Burger &copy; 2021<br>Created by Felipe Capiberibe </p> 
+        <p> </p>
     </footer>
 </template>
 <script>

@@ -2,7 +2,7 @@
     <Banner />
     <div class="main-container">
       <div class="caixa">
-        <img src="../assets/logobk.png" alt="logo burger">
+        <!-- <img src="../assets/logobk.png" alt="logo burger"> -->
       </div>
     <h1>Monte o seu burger:</h1>
     <BurgerForm />
